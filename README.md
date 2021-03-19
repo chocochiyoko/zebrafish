@@ -6,5 +6,5 @@ The goal of this project is to be able to track and analyze zebrafish movement a
 The first step I am taking is writing a foreground background segmentation algorithm. 
 I am basing my algorithm off of the codebook algorithm found in this paper:
 http://mhs.uks.ac.id/referensi%20kuliah/contoh%20jurnal/jurnal%202.pdf
-I have made some modifications 
+I have made some modifications and above is an example of the results compared to a Matlab built in function. 
 
